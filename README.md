@@ -1,7 +1,9 @@
 # ethereum-mining-kit-for-windows
 just download the folder and start mining, follow the easy guide given in the README file
 
-copy this downlaoded folder in C drive
+extract the downloaded zip file
+copy folder in C drive
+rename it to "eth"
 
 if you have not created account in geth then enter following command other wise skip to next steps
 1. open command prompt, windows + R, type in "cmd",press enter
